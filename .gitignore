@@ -1,0 +1,6 @@
+.venv/
+!media/**
+!media/
+*.log
+__pycache__/
+settings.py
